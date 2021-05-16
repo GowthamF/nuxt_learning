@@ -1,6 +1,9 @@
 <template>
   <div>
-    <Header/>
+      <Header/>
+      <header>
+          USERS SECTION
+      </header>
     <Nuxt />
   </div>
 </template>

@@ -1,3 +1,13 @@
 <template>
-    <h1>This is the Users page</h1>
+<div>
+<p>Please enter User Id</p></div>
+
+    
 </template>
+
+<script>
+export default {
+    layout:'users'
+
+}
+</script>
